@@ -31,9 +31,10 @@ st.set_page_config(
 
 st.title(":atom_symbol: OSMO Rewards :atom_symbol:") 
 #st.image("https://s1.gifyu.com/images/image_processing20210907-12647-r8jmvu.gif")
-st.success("This app only contains a chart showing the daily rewards from Osmosis epoch distribution.")
-st.text("")
 st.subheader('Streamlit App by [Jordi R.](https://twitter.com/RuspiTorpi/). Powered by Flipsidecrypto')
+st.text("")
+st.success("This app only contains a chart showing the daily rewards in incentives from Osmosis during each epoch distribution.")
+st.text("")
 st.text("")
  
 
