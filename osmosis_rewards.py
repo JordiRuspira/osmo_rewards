@@ -12,12 +12,9 @@ import requests
 import json
 import time
 import plotly.graph_objects as go
-import random
-import plotly.io as pio
-from streamlit_echarts import st_echarts
+import random 
 import plotly.io as pio 
-import plotly.express as px
-import plotly.graph_objects as go
+import plotly.express as px 
 from PIL import Image 
 
 
